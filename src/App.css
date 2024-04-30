@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+.dayWarp{
+  max-width: 400px;
+  margin: auto;
+}
+.dayWarp input{
+  width: 100%;
+  height: 30px;
+  padding:10px;
+}
